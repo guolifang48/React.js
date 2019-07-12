@@ -1,0 +1,127 @@
+[
+    {
+        "id": 2,
+        "store_name": "Veranda PS",
+        "category": {
+            "id": 1,
+            "name": "category_4",
+            "children": [
+                {
+                    "id": 8,
+                    "name": "category_1_1",
+                    "children": [],
+                    "parent": 1
+                }
+            ],
+            "parent": null
+        },
+        "owner": {
+            "id": 1,
+            "username": "seller1",
+            "email": "",
+            "seller_status": "NONE",
+            "user_status": "ACTIVE"
+        },
+        "description": "This is store description",
+        "reviews": 0,
+        "score": 4.7,
+        "following": 0,
+        "like": 3,
+        "t_visit": 400,
+        "all_visit": 2000
+    },
+    {
+        "id": 3,
+        "store_name": "NYC Spongh",
+        "category": {
+            "id": 1,
+            "name": "category_4",
+            "children": [
+                {
+                    "id": 8,
+                    "name": "category_1_1",
+                    "children": [],
+                    "parent": 1
+                }
+            ],
+            "parent": null
+        },
+        "owner": {
+            "id": 2,
+            "username": "seller2",
+            "email": "",
+            "seller_status": "NONE",
+            "user_status": "ACTIVE"
+        },
+        "description": "This is store description",
+        "reviews": 0,
+        "score": 0,
+        "following": 21,
+        "like": 100,
+        "t_visit": 30,
+        "all_visit": 3012
+    },
+    {
+        "id": 1,
+        "store_name": "BYD Nokioy",
+        "category": {
+            "id": 1,
+            "name": "category_4",
+            "children": [
+                {
+                    "id": 8,
+                    "name": "category_1_1",
+                    "children": [],
+                    "parent": 1
+                }
+            ],
+            "parent": null
+        },
+        "owner": {
+            "id": 3,
+            "username": "seller2",
+            "email": "",
+            "seller_status": "NONE",
+            "user_status": "ACTIVE"
+        },
+        "description": "This is store description",
+        "reviews": 0,
+        "score": 3.8,
+        "following": 13,
+        "like": 56,
+        "t_visit": 1,
+        "all_visit": 150
+    },
+    {
+        "id": 4,
+        "store_name": "Beladon Maratin",
+        "category": {
+            "id": 1,
+            "name": "category_4",
+            "children": [
+                {
+                    "id": 8,
+                    "name": "category_1_1",
+                    "children": [],
+                    "parent": 1
+                }
+            ],
+            "parent": null
+        },
+        "owner": {
+            "id": 1,
+            "username": "seller3",
+            "email": "",
+            "seller_status": "NONE",
+            "user_status": "ACTIVE"
+        },
+        "description": "This is store description",
+        "reviews": 0,
+        "score": 4.8,
+        "following": 4,
+        "like": 6,
+        "t_visit": 54,
+        "all_visit": 2867
+    }
+	
+]

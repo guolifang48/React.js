@@ -1,0 +1,11 @@
+export const NEW_MESSAGE = 'NEW_MESSAGE';
+export const CHAT_STARTED = 'CHAT_STARTED';
+export const CHAT_ENDED = 'CHAT_ENDED';
+export const SEND_MESSAGE = 'SEND_MESSAGE';
+export const NEW_USER = 'NEW_AGENT';
+export const OWN_DATA_RECEIVED = 'OWN_DATA_RECEIVED';
+export const CHANGE_CHAT_SERVICE = 'CHANGE_CHAT_SERVICE';
+export const RATE_GOOD = 'RATE_GOOD';
+export const RATE_BAD = 'RATE_BAD';
+export const CHAT_RATED = 'CHAT_RATED';
+export const CHAT_NOTIFICATION = 'CHAT_NOTIFICATION';

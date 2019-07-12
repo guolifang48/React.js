@@ -1,0 +1,32 @@
+[
+   {
+        "id": "1",
+        "fee_country" : "China",
+        "fee_price" : 50
+    },
+    {
+        "id": "2",
+        "fee_country" : "Japan",
+        "fee_price" : 150
+    },
+    {
+        "id": "3",
+        "fee_country" : "Russia",
+        "fee_price" : 500
+    },
+    {
+        "id": "4",
+        "fee_country" : "England",
+        "fee_price" : 1500
+    },
+    {
+        "id": "5",
+        "fee_country" : "France",
+        "fee_price" : 1520
+    },
+    {
+        "id": "6",
+        "fee_country" : "South Africa",
+        "fee_price" : 2350
+    }
+]

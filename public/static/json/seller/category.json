@@ -1,0 +1,98 @@
+[
+	{
+        "id": 2,
+        "name": "Premium shops",
+        "children": [
+            {
+                "id": 4,
+                "name": "category_1_1",
+                "children": [
+                    {
+                        "id": 12,
+                        "name": "category_2_3_3",
+                        "children": [
+                            {
+                                "id": 14,
+                                "name": "Iam chiild of 12",
+                                "children": [],
+                                "parent": 12
+                            }
+                        ],
+                        "parent": 4
+                    },
+                    {
+                        "id": 13,
+                        "name": "category_2_3_4",
+                        "children": [],
+                        "parent": 4
+                    }
+                ],
+                "parent": 2
+            },
+            {
+                "id": 5,
+                "name": "category_2_1",
+                "children": [],
+                "parent": 2
+            },
+            {
+                "id": 6,
+                "name": "category_3_1",
+                "children": [],
+                "parent": 2
+            }
+        ],
+        "parent": null
+    },
+    {
+        "id": 3,
+        "name": "New shops",
+        "children": [
+            {
+                "id": 9,
+                "name": "category_2_3_1",
+                "children": [],
+                "parent": 3
+            },
+            {
+                "id": 10,
+                "name": "category_2_3_2",
+                "children": [],
+                "parent": 3
+            },
+            {
+                "id": 11,
+                "name": "category_2_3_3",
+                "children": [],
+                "parent": 3
+            }
+        ],
+        "parent": null
+    },
+    {
+        "id": 1,
+        "name": "Highested rate",
+        "children": [
+            {
+                "id": 8,
+                "name": "category_1_1",
+                "children": [],
+                "parent": 1
+            }
+        ],
+        "parent": null
+    },
+    {
+        "id": 4,
+        "name": "Our picks",
+        "children": [
+            {
+                "id": 8,
+                "name": "category_1_1",
+                "children": [],
+                "parent": 1
+            }
+        ],
+        "parent": null
+    }
+]
